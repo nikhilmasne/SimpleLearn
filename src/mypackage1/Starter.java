@@ -13,5 +13,12 @@ public class Starter {
 	{
 		System.out.println(mypackage2.Constants.newYear);
 	}
+	
+	
+	public static void sayWelcome()
+	{
+		System.out.println(mypackage2.Constants.welcome);
+	}
+
 
 }
